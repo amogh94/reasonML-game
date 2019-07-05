@@ -1,8 +1,7 @@
 #####
 
-This is a lil game built to learn reasonML
+This is a lil game built to learn ReasonML
 
-I acknowledge and thank Ricky Vetter for guiding me through this!
 
 #####
 
